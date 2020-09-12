@@ -1,0 +1,4 @@
+com\example\TestApp.class
+com\example\model\OperationModel.class
+com\example\controllers\SpringController.class
+com\example\service\Calculate.class

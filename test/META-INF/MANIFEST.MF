@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Created-By: IntelliJ IDEA
+Built-By: An2D2
+Build-Jdk: 11.0.8
+Implementation-Version: 2.3.2.RELEASE
+Implementation-Vendor-Id: com.example
+Main-Class: com.example.TestApp
